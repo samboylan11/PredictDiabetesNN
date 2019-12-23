@@ -24,3 +24,5 @@ Using a dataset that predicts whether someone has diabetes based off different c
 #Output Variables (y):
 
 #Class variable (0 or 1)
+
+By: Samuel Boylan-Sajous
