@@ -1,5 +1,5 @@
 # PredictDiabetesNN
-Using a dataset that predicts whether someone has diabetes based off different characteristics.
+Using a dataset that predicts whether someone has diabetes based off different characteristics using a CSV file.
 
 
 
